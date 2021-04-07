@@ -60,7 +60,7 @@ function playStream(idVideoTag, stream) {
 
 const peer = new Peer({ 
     key: 'peerjs', 
-    host: 'tuanct-rtc.herokuapp.com', 
+    host: '9000-azure-giraffe-mb4mpl29.ws-us03.gitpod.io', 
     secure: true, 
     port: 443, 
     config: customConfig 
