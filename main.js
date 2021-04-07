@@ -5,11 +5,11 @@ $('#div-chat').hide();
 let customConfig;
 
 $.ajax({
-  url: "https://service.xirsys.com/ice",
+  url: "https://global.xirsys.net",
   data: {
-    ident: "vanpho",
-    secret: "2b1c2dfe-4374-11e7-bd72-5a790223a9ce",
-    domain: "vanpho93.github.io",
+    ident: "tuanct",
+    secret: "6bcd6770-9774-11eb-84cc-0242ac150002",
+    domain: "tuanct.github.io",
     application: "default",
     room: "default",
     secure: 1
